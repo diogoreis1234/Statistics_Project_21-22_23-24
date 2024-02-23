@@ -1,4 +1,4 @@
-# Statistics_Project_21-22_23-24
+# Statistics_Project_23-24
 
 # Authors 
 
@@ -12,4 +12,21 @@
 
 # Project Description 
 
-Developed a Multi Linear Regression model in order to ansewr the following research question: **“What variables will have a bigger impact on families’ incomes?”**
+Developed a project on cross-sectional data, where relevant variables were selected to address the following research question:  **“What variables will have a bigger impact on families’ incomes?”**, specified a model, critically interpreted the results, and checked the model diagnostics.
+
+# Statistics_Project_21-22
+
+# Authors 
+
+**Diogo Reis**
+
+**Diogo Santiago**
+
+**André Couto**
+
+**António Santos**
+
+# Project Description 
+
+This project conducts a comprehensive analysis of risk factors associated with acute renal failure post-cardiac surgery. The investigation involves statistical assessments and graphical representations.
+
